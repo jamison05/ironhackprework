@@ -1,0 +1,220 @@
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 10px;
+  height:50px;
+  vertical-align:text-top;
+  font-family: "Open Sans","OpenSans",sans-serif;
+
+}
+
+
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+
+.col {
+  float: left;
+}
+
+.col-3 {
+  width: 30%;
+}
+
+.col-middle {
+  margin: 0 5%;
+}
+
+
+.Page2 {
+background: url(file:///C:/Users/deepj/OneDrive/Documents/IronHack/lab-html-module-exercise-master/starter-code/images/city-scape.svg) 0 0 no-repeat;
+
+background-size: cover;
+height: 400px;
+padding-top: 50px;
+position: relative;
+}
+
+.Signup{
+  float:left;
+  margin: 10%;
+  width: 30%;
+  color: rgba(255,255,255,0.8);
+}
+
+.Signup button {
+
+  background-color:orange;
+  background-size: cover;
+  border: 2px solid;
+  border-radius: 25px;
+
+}
+
+.Signup button a{
+  color: rgb(255,255,255);
+  text-decoration: none;
+}
+.city-scape img{
+
+
+height:600px;
+position:relative;
+
+}
+
+.p-links {
+  display: inline-block;
+  float: right;
+
+  padding-top: 0px;
+  margin: 0 20px 0 0;
+
+
+  font-family: "Open Sans","OpenSans",sans-serif;
+
+}
+.clearfix{
+  clearfix{clear:both}
+}
+.top-links li {
+  display:list-item;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+  vertical-align: top;
+
+}
+
+h1 {
+  font-size: 9em;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.logo1{
+  display:inline-block;
+width: 1100px;/
+}
+.logo1 img {
+    display: inline-block;
+    width: 40px;
+    height: 20px;
+
+}
+.logo1 input{
+  width: 900px;
+  background: rgb(31, 82, 111);
+}
+
+.Large_collab{
+    background:rgb(39, 53, 71);
+
+    background-size: cover;
+    height: 450px;
+
+
+}
+
+
+.Large_collab img{
+  width:400px;
+  height:400px;
+  position:relative;
+  margin-left:20%;
+
+}
+
+.Collaboration2n {
+    color: rgb(255,255,255);
+}
+.Collaboratio2n button{
+
+
+  background-color:rgb(203, 56, 55);
+background-size: cover;
+border: 2px solid;
+border-radius: 25px;
+text-decoration: none;
+}
+.Collaboratio2n button a{
+    color: rgb(255,255,255);
+      text-decoration: none;
+}
+.Whatisnpm button{
+
+  background-color:rgb(49, 68, 88);
+  background-size: cover;
+  border: 2px solid;
+  border-radius: 25px;
+  text-decoration: none;
+
+}
+
+.Whatisnpm button a{
+  color: rgb(255,255,255);
+    text-decoration: none;
+}
+.Collaboration {
+margin:0:auto;
+    color: rgba(255,255,255,.8);
+}
+
+.objmargin{
+
+}
+.objmargin2{
+}
+.Whatisnpm{
+  background: url(file:///C:/Users/deepj/OneDrive/Documents/IronHack/lab-html-module-exercise-master/starter-code/images/forklift.svg) 0 0 no-repeat;
+
+  display:inline-block;
+  background-size: cover;
+  height: 500px;
+  width:100%;
+
+
+  color: rgba(255,255,255,0.8);
+
+}
+.Modify_contents{
+position:relative;
+height:25%
+width:40%;
+margin-top:20%;
+margin-right:30%;
+
+}
+
+.push_margin_collab{
+
+  margin:0:auto;
+}
+.push_margin{
+
+margin-left:20%;
+}
+.push_margin_left_float{
+
+float:right;
+margin-right:100px:auto;
+
+}
+.push_margin_up{
+
+  margin-bottom:20%;
+}
+.siz {
+width:300;
+height:400;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+
+.header1 h2{
+margin-left:20%;
+
+}
